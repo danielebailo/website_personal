@@ -1,0 +1,44 @@
+{{ define "main" }}
+<section class="portfolio-hero">
+  <div class="portfolio-photo">
+    <img src="/uploads/2021/05/66_1024.jpg" alt="Daniele Bailo">
+  </div>
+  <div class="portfolio-copy">
+    <p class="eyebrow">Appunti, canzoni, cose</p>
+    <h1>Daniele Bailo</h1>
+    <div class="hero-actions">
+      <a class="button primary" href="/blog/">Blog</a>
+      <a class="button" href="/music/">Musica</a>
+      <a class="button" href="/about/">About</a>
+    </div>
+  </div>
+</section>
+
+{{ $posts := first 10 (where .Site.RegularPages "Section" "blog") }}
+{{ if $posts }}
+<section class="home-latest">
+  <div class="section-heading">
+    <p class="eyebrow">Recent writing</p>
+    <h2>Ultimi post</h2>
+  </div>
+  <div class="minimal-post-list">
+    {{ range $posts }}
+      {{ $post := . }}
+      <article class="minimal-post{{ with $post.Params.cover }} has-thumb{{ end }}">
+        {{ with $post.Params.cover }}
+          <a class="minimal-post-thumb" href="{{ $post.RelPermalink }}" aria-label="{{ $post.Title }}">
+            <img src="{{ . }}" alt="" loading="lazy">
+          </a>
+        {{ end }}
+        <div class="minimal-post-text">
+          <time>{{ $post.Date.Format "02 Jan 2006" }}</time>
+          <h3><a href="{{ $post.RelPermalink }}">{{ $post.Title }}</a></h3>
+          {{ with $post.Summary }}<p>{{ . | plainify | truncate 150 }}</p>{{ end }}
+        </div>
+      </article>
+    {{ end }}
+  </div>
+  <p class="more-link"><a href="/blog/">Tutti i post →</a></p>
+</section>
+{{ end }}
+{{ end }}

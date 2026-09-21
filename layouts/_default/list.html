@@ -1,0 +1,141 @@
+{{ define "main" }}
+<header class="page-title">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p>{{ . }}</p>{{ end }}
+</header>
+
+{{ if .Content }}<div class="content">{{ .Content }}</div>{{ end }}
+
+{{ $pages := .RegularPages }}
+{{ if eq .Section "blog" }}
+  {{ $pages = where .Site.RegularPages "Section" "blog" }}
+  {{ $pages = sort $pages "Date" "desc" }}
+{{ end }}
+
+{{ if and $pages (ne .Section "music") }}
+  {{ if eq .Section "blog" }}
+    <section class="blog-search" aria-label="Cerca nel blog">
+      <label for="blog-search-input">Cerca nel blog</label>
+      <input id="blog-search-input" type="search" placeholder="Cerca parole, titoli, tag..." autocomplete="off">
+      <p id="blog-search-count" class="blog-search-count"></p>
+    </section>
+    {{ $paginator := .Paginate $pages 18 }}
+    <div class="blog-layout">
+      <section class="post-list blog-results" id="blog-results">
+        {{ range $paginator.Pages }}
+          {{ $page := . }}
+          {{ $year := .Date.Format "2006" }}
+          {{ $searchText := printf "%s %s %s %s" .Title (.Summary | plainify) (.Plain | plainify) (delimit .Params.tags " ") | lower }}
+          <article class="post-item blog-card {{ if .Params.cover }}has-cover{{ end }}" data-year="{{ $year }}" data-search="{{ $searchText | htmlEscape }}">
+            {{ with .Params.cover }}
+              <a class="post-thumb" href="{{ $page.RelPermalink }}" aria-hidden="true">
+                <img src="{{ . }}" alt="" loading="lazy">
+              </a>
+            {{ end }}
+            <div class="post-item-body">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              {{ if .Date }}<time>{{ .Date.Format "02 Jan 2006" }}</time>{{ end }}
+              {{ with .Summary }}<p>{{ . | plainify | truncate 180 }}</p>{{ end }}
+              {{ with .Params.tags }}
+                <div class="tags">
+                  {{ range . }}<a href="{{ "/tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
+                </div>
+              {{ end }}
+            </div>
+          </article>
+        {{ end }}
+        {{ if gt $paginator.TotalPages 1 }}
+          <nav class="pagination" aria-label="Paginazione blog">
+            {{ if $paginator.HasPrev }}
+              <a class="pagination-link" href="{{ $paginator.Prev.URL }}">← Più recenti</a>
+            {{ else }}
+              <span class="pagination-link is-disabled">← Più recenti</span>
+            {{ end }}
+            <span class="pagination-current">Pagina {{ $paginator.PageNumber }} di {{ $paginator.TotalPages }}</span>
+            {{ if $paginator.HasNext }}
+              <a class="pagination-link" href="{{ $paginator.Next.URL }}">Più vecchi →</a>
+            {{ else }}
+              <span class="pagination-link is-disabled">Più vecchi →</span>
+            {{ end }}
+          </nav>
+        {{ end }}
+      </section>
+      <aside class="blog-sidebar" aria-label="Archivio blog">
+        <section class="sidebar-card">
+          <h2>Archivio</h2>
+          <button class="archive-link is-active" type="button" data-year="all">Tutti <span>{{ len $pages }}</span></button>
+          {{ range $pages.GroupByDate "2006" }}
+            <button class="archive-link" type="button" data-year="{{ .Key }}">{{ .Key }} <span>{{ len .Pages }}</span></button>
+          {{ end }}
+        </section>
+        <section class="sidebar-card">
+          <h2>Tag</h2>
+          <div class="tag-cloud">
+            {{ range .Site.Taxonomies.tags.ByCount }}
+              <a href="{{ .Page.RelPermalink }}" style="--tag-weight: {{ .Count }}">{{ .Page.Title }} <span>{{ .Count }}</span></a>
+            {{ end }}
+          </div>
+        </section>
+      </aside>
+    </div>
+    <script>
+      (() => {
+        const input = document.getElementById('blog-search-input');
+        const count = document.getElementById('blog-search-count');
+        const cards = Array.from(document.querySelectorAll('.blog-card'));
+        const archiveButtons = Array.from(document.querySelectorAll('.archive-link'));
+        let activeYear = 'all';
+
+        const normalize = (value) => (value || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').trim();
+
+        function applyFilters() {
+          const query = normalize(input.value);
+          let visible = 0;
+          cards.forEach((card) => {
+            const text = normalize(card.dataset.search);
+            const year = card.dataset.year;
+            const matchesText = !query || text.includes(query);
+            const matchesYear = activeYear === 'all' || year === activeYear;
+            const show = matchesText && matchesYear;
+            card.hidden = !show;
+            if (show) visible += 1;
+          });
+          count.textContent = query || activeYear !== 'all' ? `${visible} risultati` : '';
+        }
+
+        input.addEventListener('input', applyFilters);
+        archiveButtons.forEach((button) => {
+          button.addEventListener('click', () => {
+            activeYear = button.dataset.year;
+            archiveButtons.forEach((b) => b.classList.toggle('is-active', b === button));
+            applyFilters();
+          });
+        });
+      })();
+    </script>
+  {{ else }}
+    <section class="post-list">
+      {{ range $pages }}
+        {{ $page := . }}
+        <article class="post-item {{ if .Params.cover }}has-cover{{ end }}">
+          {{ with .Params.cover }}
+            <a class="post-thumb" href="{{ $page.RelPermalink }}" aria-hidden="true">
+              <img src="{{ . }}" alt="" loading="lazy">
+            </a>
+          {{ end }}
+          <div class="post-item-body">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ if .Date }}<time>{{ .Date.Format "02 Jan 2006" }}</time>{{ end }}
+            {{ with .Summary }}<p>{{ . | plainify | truncate 180 }}</p>{{ end }}
+            {{ with .Params.tags }}
+              <div class="tags">
+                {{ range . }}<span>{{ . }}</span>{{ end }}
+              </div>
+            {{ end }}
+          </div>
+        </article>
+      {{ end }}
+    </section>
+  {{ end }}
+{{ end }}
+{{ end }}

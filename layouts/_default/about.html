@@ -1,0 +1,23 @@
+{{ define "main" }}
+<article class="about-page">
+  <section class="about-hero">
+    <div class="about-portrait">
+      <img src="/uploads/2021/05/66_1024.jpg" alt="Daniele Bailo">
+    </div>
+    <div class="about-intro">
+      <p class="eyebrow">About</p>
+      <h1>{{ .Title }}</h1>
+      <p class="lead">Ingegnere informatico, ricercatore e musicista. Mi occupo di dati e infrastrutture digitali per la ricerca, e nel resto del tempo provo a mettere ordine nella musica che ho in testa.</p>
+      <div class="about-links">
+        <a href="https://work.danielebailo.it/">Profilo professionale</a>
+        <a href="/music/">Musica</a>
+        <a href="mailto:daniele@danielebailo.it">Email</a>
+      </div>
+    </div>
+  </section>
+
+  <div class="about-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

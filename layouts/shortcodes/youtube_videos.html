@@ -1,0 +1,17 @@
+{{ $videos := site.Data.youtube_videos }}
+{{ if $videos }}
+<section class="youtube-video-grid" aria-label="Video YouTube">
+  {{ range $videos }}
+    <article class="youtube-video-card">
+      <a class="youtube-video-thumb" href="{{ .url }}" target="_blank" rel="noopener">
+        <img src="{{ .thumbnail }}" alt="{{ .title }}" loading="lazy">
+        {{ with .duration }}<span>{{ . }}</span>{{ end }}
+      </a>
+      <h3><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></h3>
+      {{ with .meta }}<p>{{ . }}</p>{{ end }}
+    </article>
+  {{ end }}
+</section>
+{{ else }}
+<p><a href="https://www.youtube.com/@danielebailo/videos">Guarda i video sul canale YouTube</a>.</p>
+{{ end }}

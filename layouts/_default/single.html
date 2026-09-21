@@ -1,0 +1,21 @@
+{{ define "main" }}
+<article class="single">
+  <header class="page-title">
+    <h1>{{ .Title }}</h1>
+    {{ if .Date }}<time>{{ .Date.Format "02 Jan 2006" }}</time>{{ end }}
+    {{ with .Params.tags }}
+      <div class="tags">
+        {{ range . }}<a href="/tags/{{ . | urlize }}/">{{ . }}</a>{{ end }}
+      </div>
+    {{ end }}
+  </header>
+  {{ with .Params.cover }}
+    <figure class="single-cover">
+      <img src="{{ . }}" alt="" loading="eager">
+    </figure>
+  {{ end }}
+  <div class="content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

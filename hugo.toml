@@ -1,0 +1,41 @@
+baseURL = "https://personal.danielebailo.it/"
+title = "Daniele Bailo"
+languageCode = "it-IT"
+defaultContentLanguage = "it"
+timeZone = "Europe/Rome"
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "Blog personale, musica e cose non necessariamente professionali di Daniele Bailo."
+  author = "Daniele Bailo"
+  workURL = "https://work.danielebailo.it/"
+  spotifyURL = ""
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 10
+  [[menu.main]]
+    name = "Music"
+    url = "/music/"
+    weight = 20
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 30
+  [[menu.main]]
+    name = "Work"
+    url = "https://work.danielebailo.it/"
+    weight = 40
