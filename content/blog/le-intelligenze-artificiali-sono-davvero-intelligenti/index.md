@@ -15,6 +15,7 @@ tags:
   - "etica"
   - "filosofia"
 cover: "https://www.saperescienza.it/wp-content/uploads/2026/08/thedigitalartist-technology-4205276.jpg"
+cover_thumb: "/blog/le-intelligenze-artificiali-sono-davvero-intelligenti/images/thumbnail.jpg"
 cover_alt: "Illustrazione digitale sull'intelligenza artificiale e la mente"
 draft: false
 ---

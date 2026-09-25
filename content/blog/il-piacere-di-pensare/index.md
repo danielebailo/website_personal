@@ -15,6 +15,7 @@ tags:
   - "matematica"
   - "conoscenza"
 cover: "/blog/il-piacere-di-pensare/images/il-piacere-di-pensare.png"
+cover_thumb: "/blog/il-piacere-di-pensare/images/thumbnail.jpg"
 cover_alt: "Una mano con una matita su appunti scientifici, con una trama digitale luminosa sul tavolo"
 ---
 

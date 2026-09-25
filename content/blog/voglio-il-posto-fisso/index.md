@@ -15,6 +15,7 @@ tags:
   - buoni-pasto
   - trap-statale
 cover: "/blog/voglio-il-posto-fisso/images/header.jpg"
+cover_thumb: "/blog/voglio-il-posto-fisso/images/thumbnail.jpg"
 cover_alt: "Voglio il posto fisso"
 ---
 

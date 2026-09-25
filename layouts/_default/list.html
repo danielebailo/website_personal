@@ -26,8 +26,9 @@
           {{ $page := . }}
           {{ $year := .Date.Format "2006" }}
           {{ $searchText := printf "%s %s %s %s" .Title (.Summary | plainify) (.Plain | plainify) (delimit .Params.tags " ") | lower }}
-          <article class="post-item blog-card {{ if .Params.cover }}has-cover{{ end }}" data-year="{{ $year }}" data-search="{{ $searchText | htmlEscape }}">
-            {{ with .Params.cover }}
+          {{ $cover := .Params.cover_thumb | default .Params.cover }}
+          <article class="post-item blog-card {{ if $cover }}has-cover{{ end }}" data-year="{{ $year }}" data-search="{{ $searchText | htmlEscape }}">
+            {{ with $cover }}
               <a class="post-thumb" href="{{ $page.RelPermalink }}" aria-hidden="true">
                 <img src="{{ . }}" alt="" loading="lazy">
               </a>
@@ -117,8 +118,9 @@
     <section class="post-list">
       {{ range $pages }}
         {{ $page := . }}
-        <article class="post-item {{ if .Params.cover }}has-cover{{ end }}">
-          {{ with .Params.cover }}
+        {{ $cover := .Params.cover_thumb | default .Params.cover }}
+        <article class="post-item {{ if $cover }}has-cover{{ end }}">
+          {{ with $cover }}
             <a class="post-thumb" href="{{ $page.RelPermalink }}" aria-hidden="true">
               <img src="{{ . }}" alt="" loading="lazy">
             </a>
