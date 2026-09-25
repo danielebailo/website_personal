@@ -26,6 +26,30 @@ Nel 1999 ho fondato gli Ex Falso Quodlibet, una band di pazzi scienziati informa
 
 Negli anni ho pubblicato musica autoprodotta, dall’album *Silenzi* alla raccolta *Living eclectic lives*, fino a brani pop e collaborazioni più recenti.
 
+Per ascoltare le canzoni, vedere i video e conoscere meglio questo progetto, visita la [pagina Musica →](/music/).
+
+## Scrittura
+
+### *Gli Stancocchi*
+
+Ho scritto *Gli Stancocchi*, un racconto popolato da ragazzi, animali e personaggi improbabili: un gatto pericoloso, un geco buono, due dottori ai limiti della realtà e un Grillo Parlante piuttosto saccente.
+
+È una storia pensata per ragazzi, giovani e adulti, con un po’ di avventura, umorismo e fantasia.
+
+[![Copertina de *Gli Stancocchi*](/uploads/2026/09/gli-stancocchi.jpg)](https://www.amazon.com/dp/B0H3NSGXDR)
+
+[Scopri il libro su Amazon →](https://www.amazon.com/dp/B0H3NSGXDR)
+
+Ho scritto anche la prefazione a *Statuto epistemologico e approccio interdisciplinare* di Lorenzo Mboriguié Frattini, pubblicato da Cittadella Editrice.
+
+[Leggi la scheda del libro e della prefazione →](https://cittadellaeditrice.com/index.php?content=scheda&id=1360&action=add&id=1463)
+
+## Altre cose
+
+Mi piace andare in montagna e viaggiare in camper. La Valle d’Aosta è il nostro luogo del cuore, soprattutto una valle segretissima di cui non riveleremo mai il nome. Alcune cose belle funzionano meglio se restano un po’ nascoste.
+
+Mi è cara anche [Taizé in Francia](https://www.taize.fr/it/) e la sua preghiera, così come le attività della [parrocchia della Santissima Annunziata](https://www.santissimaannunziata.it/).
+
 ## Contatti
 
 Per contatti, progetti, musica o saluti: [daniele@danielebailo.it](mailto:daniele@danielebailo.it).
