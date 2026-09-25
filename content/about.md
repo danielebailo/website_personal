@@ -8,11 +8,9 @@ aliases:
 - /music/bio/
 ---
 
-Mi chiamo Daniele Bailo. Mi piace la creatività che dà forma al caos: le storie, la musica, le idee e le persone.
-
 Sono nato a Roma nel 1978 e ho passato i primi quattro anni della mia vita in Francia. Poi sono tornato nella Città Eterna, con qualche parentesi altrove — per esempio a Grenoble — ma senza mai riuscire a liberarmi del tutto del traffico romano.
 
-Nella vita cerco di essere un essere umano, con risultati alterni. Mi interessano la creatività, la musica e la scrittura, ma anche la fede, l’impegno e il rapporto con la natura. Mi piace camminare in montagna, viaggiare in camper e cercare, ogni tanto, un po’ di silenzio: impresa non sempre facile per uno che ha continuamente qualcosa in testa.
+Nella vita cerco di essere un essere umano, con risultati alterni. Mi interessano la creatività mentale e artistica, la musica e la scrittura, con una sorta di idolatria per Calvino, ma anche la fede — quella bella, vera, semplice, pulita — e il vivere la natura. Mi piace camminare in montagna, osservare l’oceano maestoso, viaggiare in camper e cercare, ogni tanto, un po’ di silenzio: impresa non sempre facile per uno che ha continuamente qualcosa in testa. Anna mi accompagna nella vita. E nel cammino ci amiamo, litighiamo e ci divertiamo.
 
 Per il lavoro: [work.danielebailo.it](https://work.danielebailo.it/).
 
