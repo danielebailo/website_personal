@@ -8,11 +8,13 @@ aliases:
 - /music/bio/
 ---
 
-Sono Daniele Bailo: ingegnere informatico, ricercatore e musicista.
+Mi chiamo Daniele Bailo. Mi piace la creatività che dà forma al caos: le storie, la musica, le idee e le persone.
 
-Nel lavoro mi occupo di dati, infrastrutture digitali per la ricerca, interoperabilità, intelligenza artificiale e sistemi per rendere la conoscenza scientifica più accessibile e riutilizzabile. Il profilo professionale più completo è sul sito [Research · AI · Data](https://work.danielebailo.it/).
+Sono nato a Roma nel 1978 e ho passato i primi quattro anni della mia vita in Francia. Poi sono tornato nella Città Eterna, con qualche parentesi altrove — per esempio a Grenoble — ma senza mai riuscire a liberarmi del tutto del traffico romano.
 
-Accanto a questo c’è la musica: compongo per liberare la musica che ho in testa. Ho iniziato da bambino, con una vecchia pianola Bontempi e un pubblico d’eccezione — due genitori, due nonni e le piante del terrazzo. Da allora l’idea di fondo non è cambiata molto: creare bellezza con la musica, indipendentemente dal genere.
+Nella vita cerco di essere un essere umano, con risultati alterni. Mi interessano la creatività, la musica e la scrittura, ma anche la fede, l’impegno e il rapporto con la natura. Mi piace camminare in montagna, viaggiare in camper e cercare, ogni tanto, un po’ di silenzio: impresa non sempre facile per uno che ha continuamente qualcosa in testa.
+
+Per il lavoro: [work.danielebailo.it](https://work.danielebailo.it/).
 
 ## Musica
 
