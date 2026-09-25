@@ -13,11 +13,8 @@ tags:
   - "etica-ai"
   - "matematica"
   - "conoscenza"
-cover:
-  image: "images/il-piacere-di-pensare.png"
-  alt: "Una mano con una matita su appunti scientifici, con una trama digitale luminosa sul tavolo"
-  caption: ""
-  relative: true
+cover: "/blog/il-piacere-di-pensare/images/il-piacere-di-pensare.png"
+cover_alt: "Una mano con una matita su appunti scientifici, con una trama digitale luminosa sul tavolo"
 ---
 
 Il dibattito sull’Intelligenza Artificiale nella ricerca scientifica sta diventando sempre più interessante. E, credo, sempre più importante. Non riguarda soltanto **quanto l’AI sia capace di risolvere problemi**, di produrre codice, dimostrare teoremi o analizzare quantità di informazioni che un essere umano non potrebbe affrontare negli stessi tempi. Riguarda anche, e forse soprattutto, **il nostro rapporto con la conoscenza**.
