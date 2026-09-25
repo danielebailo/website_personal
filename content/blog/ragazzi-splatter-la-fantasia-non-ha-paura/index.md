@@ -1,6 +1,7 @@
 ---
 title: 'Ragazzi splatter: la fantasia non ha paura!'
 date: '2013-11-06'
+comments: true
 draft: false
 categories:
 - glistancocchi

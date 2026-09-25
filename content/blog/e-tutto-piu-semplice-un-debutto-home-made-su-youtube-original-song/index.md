@@ -1,6 +1,7 @@
 ---
 title: E' tutto più semplice - un debutto home-made su youtube  [Original Song]
 date: '2020-11-10'
+comments: true
 draft: false
 categories:
 - musica-video

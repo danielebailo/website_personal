@@ -1,6 +1,7 @@
 ---
 title: 'Alieni sul GRA :: #musical snippet'
 date: '2018-02-20'
+comments: true
 draft: false
 categories:
 - musica-video

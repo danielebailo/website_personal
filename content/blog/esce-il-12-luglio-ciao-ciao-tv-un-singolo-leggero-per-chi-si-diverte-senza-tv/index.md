@@ -2,6 +2,7 @@
 title: Esce il 12 Luglio “Ciao Ciao TV”, un singolo leggero per chi si diverte senza
   TV.
 date: '2021-06-28'
+comments: true
 draft: false
 categories:
 - music

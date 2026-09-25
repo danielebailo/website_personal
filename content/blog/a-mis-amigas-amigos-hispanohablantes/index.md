@@ -1,6 +1,7 @@
 ---
 title: A mis amigas/amigos hispanohablantes
 date: '2021-11-04'
+comments: true
 draft: false
 categories:
 - music

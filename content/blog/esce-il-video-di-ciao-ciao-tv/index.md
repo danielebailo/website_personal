@@ -1,6 +1,7 @@
 ---
 title: Esce il Video di "Ciao Ciao TV"
 date: '2021-07-23'
+comments: true
 draft: false
 categories:
 - musica

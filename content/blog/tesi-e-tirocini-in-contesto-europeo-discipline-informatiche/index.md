@@ -1,6 +1,7 @@
 ---
 title: Tesi e Tirocini in contesto Europeo - Discipline informatiche
 date: '2019-06-11'
+comments: true
 draft: false
 categories:
 - job

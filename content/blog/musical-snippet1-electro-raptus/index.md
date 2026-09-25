@@ -1,6 +1,7 @@
 ---
 title: Musical Snippet#1 - Electro Raptus
 date: '2016-11-24'
+comments: true
 draft: false
 categories:
 - musica-video

@@ -1,6 +1,7 @@
 ---
 title: Non si viene a Lourdes per i miracoli...
 date: '2024-10-09'
+comments: true
 draft: false
 categories:
 - musica-video

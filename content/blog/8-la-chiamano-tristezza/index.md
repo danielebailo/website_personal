@@ -1,6 +1,7 @@
 ---
 title: 8. La chiamano tristezza
 date: '2013-07-30'
+comments: true
 draft: false
 categories:
 - glistancocchi

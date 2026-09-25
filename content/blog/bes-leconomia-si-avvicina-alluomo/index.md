@@ -1,6 +1,7 @@
 ---
 title: 'BES: L''economia si avvicina all''uomo?'
 date: '2013-03-12'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

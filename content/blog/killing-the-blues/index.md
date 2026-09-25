@@ -1,6 +1,7 @@
 ---
 title: "Killing the Blues"
 date: 2025-05-23
+comments: true
 original_url: https://www.youtube.com/watch?v=b9jyNFPumNw
 migration_source: personal-original
 translationKey: "killing-the-blues"

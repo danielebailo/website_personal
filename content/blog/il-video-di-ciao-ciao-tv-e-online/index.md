@@ -1,6 +1,7 @@
 ---
 title: Il video di Ciao Ciao TV è online!
 date: '2021-07-23'
+comments: true
 draft: false
 categories:
 - music

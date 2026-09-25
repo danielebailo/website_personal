@@ -1,6 +1,7 @@
 ---
 title: Il solista - categoria “film edificanti”
 date: '2017-01-15'
+comments: true
 draft: false
 categories:
 - musica-video

@@ -1,6 +1,7 @@
 ---
 title: Zerocalcare
 date: '2014-01-09'
+comments: true
 draft: false
 categories:
 - recensioni

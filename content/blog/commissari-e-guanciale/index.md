@@ -1,6 +1,7 @@
 ---
 title: 'Maigret: commissari e guanciale'
 date: '2014-02-26'
+comments: true
 draft: false
 categories:
 - recensioni

@@ -1,6 +1,7 @@
 ---
 title: Tutto sua madre
 date: '2014-10-28'
+comments: true
 draft: false
 categories:
 - musica-video

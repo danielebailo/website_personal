@@ -1,6 +1,7 @@
 ---
 title: Mal di schiena o necrolisi?
 date: '2014-05-12'
+comments: true
 draft: false
 categories:
 - riflessioni

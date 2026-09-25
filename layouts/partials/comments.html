@@ -1,0 +1,11 @@
+{{ if .Params.comments }}
+<section class="comments" id="comments">
+  <h2>Commenti</h2>
+  <div id="hashover"></div>
+  {{ with site.Params.commentsHashOverURL }}
+    <script src="{{ . }}"></script>
+  {{ else }}
+    {{ warnf "comments: true set for %s but params.commentsHashOverURL is not configured" $.RelPermalink }}
+  {{ end }}
+</section>
+{{ end }}

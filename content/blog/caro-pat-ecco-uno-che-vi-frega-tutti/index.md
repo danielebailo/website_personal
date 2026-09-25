@@ -1,6 +1,7 @@
 ---
 title: Caro Pat, ecco uno che vi frega tutti
 date: '2015-04-07'
+comments: true
 draft: false
 categories:
 - riflessioni

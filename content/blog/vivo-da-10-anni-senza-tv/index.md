@@ -1,6 +1,7 @@
 ---
 title: Vivo da 10 anni senza TV...
 date: '2021-06-10'
+comments: true
 draft: false
 categories:
 - senza-categoria

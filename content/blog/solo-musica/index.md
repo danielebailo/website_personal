@@ -1,6 +1,7 @@
 ---
 title: Solo Musica
 date: '2021-05-26'
+comments: true
 draft: false
 categories:
 - musica-video

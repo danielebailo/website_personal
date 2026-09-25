@@ -1,6 +1,7 @@
 ---
 title: Dal Monte del Ginepro
 date: '2014-07-14'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

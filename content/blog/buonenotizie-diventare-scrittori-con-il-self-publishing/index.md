@@ -1,6 +1,7 @@
 ---
 title: '#Buonenotizie - diventare scrittori con il self-publishing'
 date: '2014-06-05'
+comments: true
 draft: false
 categories:
 - crowdfunding

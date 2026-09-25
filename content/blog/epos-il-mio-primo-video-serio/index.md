@@ -1,6 +1,7 @@
 ---
 title: 'EPOS: la mia prima video release!'
 date: '2013-02-27'
+comments: true
 draft: false
 categories:
 - musica-video

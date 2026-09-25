@@ -1,6 +1,7 @@
 ---
 title: '“Song for my father”: a workbench before EFQ meeting in Amsterdam'
 date: '2012-10-05'
+comments: true
 draft: false
 categories:
 - musica-video

@@ -1,6 +1,7 @@
 ---
 title: Una frase di Fr. Roger
 date: '2012-05-28'
+comments: true
 draft: false
 categories:
 - riflessioni

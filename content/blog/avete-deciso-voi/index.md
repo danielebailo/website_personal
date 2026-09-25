@@ -1,6 +1,7 @@
 ---
 title: Avete deciso voi!
 date: '2021-06-25'
+comments: true
 draft: false
 categories:
 - music

@@ -1,6 +1,7 @@
 ---
 title: Sunglasses - Json Bourne
 date: '2025-01-15'
+comments: true
 draft: false
 categories:
 - music

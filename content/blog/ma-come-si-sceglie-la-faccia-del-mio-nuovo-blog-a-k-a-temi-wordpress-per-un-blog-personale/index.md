@@ -2,6 +2,7 @@
 title: Ma come si sceglie la "faccia" del mio nuovo blog? (a.k.a. temi wordpress per
   un blog personale)
 date: '2014-02-06'
+comments: true
 draft: false
 categories:
 - riflessioni

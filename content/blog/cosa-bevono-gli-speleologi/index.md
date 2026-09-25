@@ -1,6 +1,7 @@
 ---
 title: Cosa Bevono gli speleologi?
 date: '2024-04-25'
+comments: true
 draft: false
 categories:
 - music

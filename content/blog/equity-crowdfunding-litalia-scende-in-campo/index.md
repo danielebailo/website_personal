@@ -1,6 +1,7 @@
 ---
 title: 'Equity Crowdfunding: l’Italia scende in campo'
 date: '2015-03-05'
+comments: true
 draft: false
 categories:
 - crowdfunding

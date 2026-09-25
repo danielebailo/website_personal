@@ -1,6 +1,7 @@
 ---
 title: 'FIXED: Logic Pro X + Mojave + Axiom Air mini 32 doesn’t work'
 date: '2019-10-05'
+comments: true
 draft: false
 categories:
 - musica-video
@@ -18,9 +19,11 @@ migration_source: wordpress-personale
 cover: /uploads/2019/10/IMG_20191005_131730-2192236633-1570276742265-1.jpg
 summary: 'If you got here, you are probably one of those who just purchased an Axiom
   Air Mini 32 midi keyboard controller, plugged it in, and tried to have some fun
-  with Logic Pro X.   And it doesn’t work!
+  with Logic Pro X.
+  And it doesn’t work!
 
-  No worries.   I have a solution.'
+  No worries.
+  I have a solution.'
 ---
 
 If you got here, you are probably one of those who just purchased an Axiom Air Mini 32 midi keyboard controller, plugged it in, and tried to have some fun with Logic Pro X.

@@ -1,6 +1,7 @@
 ---
 title: L'algoritmo della decenza coppiale (solo per nerd!)
 date: '2013-10-29'
+comments: true
 draft: false
 categories:
 - riflessioni

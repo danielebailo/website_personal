@@ -1,6 +1,7 @@
 ---
 title: Everyday Life | Guitar Loop | Original Song
 date: '2020-12-11'
+comments: true
 draft: false
 categories:
 - musica-video

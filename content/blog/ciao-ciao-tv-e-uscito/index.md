@@ -1,6 +1,7 @@
 ---
 title: Ciao Ciao TV è uscito!
 date: '2021-07-17'
+comments: true
 draft: false
 categories:
 - music

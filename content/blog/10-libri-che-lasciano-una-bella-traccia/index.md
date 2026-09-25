@@ -1,6 +1,7 @@
 ---
 title: 10 libri che lasciano una (bella) traccia
 date: '2016-04-28'
+comments: true
 draft: false
 categories:
 - recensioni

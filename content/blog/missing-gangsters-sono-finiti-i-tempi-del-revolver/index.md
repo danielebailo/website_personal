@@ -1,6 +1,7 @@
 ---
 title: Missing Gangsters - sono finiti i tempi del revolver
 date: '2025-03-06'
+comments: true
 draft: false
 categories:
 - music

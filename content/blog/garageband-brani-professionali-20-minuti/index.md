@@ -1,6 +1,7 @@
 ---
 title: 'GarageBand: brani professionali in 20 minuti'
 date: '2014-05-22'
+comments: true
 draft: false
 categories:
 - riflessioni

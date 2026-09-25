@@ -1,6 +1,7 @@
 ---
 title: INGV assume 3 tecnici informatici su EPOS
 date: '2019-10-06'
+comments: true
 draft: false
 categories:
 - job

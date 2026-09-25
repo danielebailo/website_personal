@@ -1,6 +1,7 @@
 ---
 title: Direttamente dal passato "A real human being" - by electric youth
 date: '2015-06-15'
+comments: true
 draft: false
 categories:
 - musica-video

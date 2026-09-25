@@ -1,6 +1,7 @@
 ---
 title: Spotify e DistroKid
 date: '2021-05-24'
+comments: true
 draft: false
 categories:
 - music

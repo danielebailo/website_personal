@@ -1,6 +1,7 @@
 ---
 title: I sogni non sono astrazioni, ma luoghi preziosi per incontrare la nostra libertà
 date: '2012-08-01'
+comments: true
 draft: false
 categories:
 - riflessioni

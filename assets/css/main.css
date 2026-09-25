@@ -638,6 +638,22 @@ h1 {
 
 .site-footer a { text-decoration: none; }
 
+.comments {
+  max-width: var(--content-width);
+  margin: 56px auto 0;
+  padding-top: 32px;
+  border-top: 1px solid var(--line);
+}
+
+.comments h2 {
+  margin: 0 0 20px;
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: clamp(28px, 3vw, 42px);
+  line-height: 1;
+  letter-spacing: -.04em;
+  font-weight: 500;
+}
+
 @media (max-width: 880px) {
   .site-header {
     grid-template-columns: 1fr;

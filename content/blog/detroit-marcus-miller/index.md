@@ -1,6 +1,7 @@
 ---
 title: 'Detroit :: Marcus Miller'
 date: '2013-03-15'
+comments: true
 draft: false
 categories:
 - musica-video

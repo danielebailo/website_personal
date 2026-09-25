@@ -1,6 +1,7 @@
 ---
 title: Tecnasma d'amore
 date: '2024-01-30'
+comments: true
 draft: false
 categories:
 - music

@@ -1,6 +1,7 @@
 ---
 title: "Il Piacere di pensare"
 date: 2026-09-11
+comments: true
 original_url: https://work.danielebailo.it/news/il-piacere-di-pensare/
 migration_source: professional-work
 translationKey: "il-piacere-di-pensare"

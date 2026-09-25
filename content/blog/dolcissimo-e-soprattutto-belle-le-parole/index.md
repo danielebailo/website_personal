@@ -1,6 +1,7 @@
 ---
 title: Room 39
 date: '2012-06-08'
+comments: true
 draft: false
 categories:
 - musica-video

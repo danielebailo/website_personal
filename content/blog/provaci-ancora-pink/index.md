@@ -1,6 +1,7 @@
 ---
 title: Provaci ancora, Pink
 date: '2014-04-02'
+comments: true
 draft: false
 categories:
 - musica-video

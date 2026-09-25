@@ -1,6 +1,7 @@
 ---
 title: '#italiasicura'
 date: '2015-06-03'
+comments: true
 draft: false
 categories:
 - job

@@ -1,6 +1,7 @@
 ---
 title: Io con Fresu :-)
 date: '2012-08-04'
+comments: true
 draft: false
 categories:
 - musica-video

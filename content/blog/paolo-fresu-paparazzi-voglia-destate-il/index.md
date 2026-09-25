@@ -1,6 +1,7 @@
 ---
 title: Paolo Fresu - Paparazzi
 date: '2012-06-28'
+comments: true
 draft: false
 categories:
 - musica-video

@@ -1,6 +1,7 @@
 ---
 title: Artisti di strada
 date: '2016-02-15'
+comments: true
 draft: false
 categories:
 - musica-video

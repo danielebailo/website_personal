@@ -1,6 +1,7 @@
 ---
 title: 'Islanda: dal pomodoro di gomma al pornospruzzo'
 date: '2013-07-05'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

@@ -1,6 +1,7 @@
 ---
 title: Una chiesa oscurantista? Non in questo caso.
 date: '2012-10-19'
+comments: true
 draft: false
 categories:
 - riflessioni

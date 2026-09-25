@@ -1,6 +1,7 @@
 ---
 title: Scott henderson -  Lady P
 date: '2016-08-09'
+comments: true
 draft: false
 categories:
 - musica-video

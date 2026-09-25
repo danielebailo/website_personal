@@ -1,6 +1,7 @@
 ---
 title: "Sundown Slide"
 date: 2025-05-23
+comments: true
 original_url: https://www.youtube.com/watch?v=0oJshN4bLzo
 migration_source: personal-original
 translationKey: "sundown-slide"

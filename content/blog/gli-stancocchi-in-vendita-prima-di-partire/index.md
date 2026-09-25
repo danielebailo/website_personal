@@ -1,6 +1,7 @@
 ---
 title: '"Gli Stancocchi": una lettura da spiaggia, pronta per l''estate'
 date: '2013-08-05'
+comments: true
 draft: false
 categories:
 - glistancocchi

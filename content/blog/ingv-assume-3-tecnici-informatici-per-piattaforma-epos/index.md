@@ -1,6 +1,7 @@
 ---
 title: INGV assume 3 tecnici informatici per piattaforma EPOS
 date: '2022-03-30'
+comments: true
 draft: false
 categories:
 - job

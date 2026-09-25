@@ -1,6 +1,7 @@
 ---
 title: Luca Stricagnoli - Hold The Line
 date: '2019-06-04'
+comments: true
 draft: false
 categories:
 - musica-video

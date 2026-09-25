@@ -1,6 +1,7 @@
 ---
 title: 'Ariasana: Musica Fresca per le Torride Estati'
 date: '2024-08-23'
+comments: true
 draft: false
 categories:
 - music

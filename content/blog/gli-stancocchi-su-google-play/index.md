@@ -1,6 +1,7 @@
 ---
 title: Gli Stancocchi su Google Play
 date: '2014-03-31'
+comments: true
 draft: false
 categories:
 - recensioni

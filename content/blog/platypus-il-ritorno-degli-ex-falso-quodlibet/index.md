@@ -1,6 +1,7 @@
 ---
 title: 'Platypus: Il Ritorno degli Ex Falso Quodlibet'
 date: '2023-12-12'
+comments: true
 draft: false
 categories:
 - music

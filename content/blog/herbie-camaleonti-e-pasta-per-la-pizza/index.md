@@ -1,6 +1,7 @@
 ---
 title: 'Herbie: camaleonti e pasta per la pizza.'
 date: '2013-12-05'
+comments: true
 draft: false
 categories:
 - recensioni

@@ -1,6 +1,7 @@
 ---
 title: Divergent - fuori dagli schemi
 date: '2015-03-12'
+comments: true
 draft: false
 categories:
 - musica-video

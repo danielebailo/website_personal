@@ -1,6 +1,7 @@
 ---
 title: "Voglio il posto fisso"
 date: 2025-03-23
+comments: true
 original_url: https://www.youtube.com/watch?v=f8f1JA7KwU8
 migration_source: personal-original
 translationKey: "voglio-il-posto-fisso"

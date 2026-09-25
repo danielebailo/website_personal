@@ -1,6 +1,7 @@
 ---
 title: White Christmas | Massimo Varini
 date: '2020-12-25'
+comments: true
 draft: false
 categories:
 - musica-video

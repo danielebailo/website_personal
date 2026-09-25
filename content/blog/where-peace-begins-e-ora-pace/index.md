@@ -1,6 +1,7 @@
 ---
 title: "Where Peace Begins (E ora pace)"
 date: 2025-05-23
+comments: true
 original_url: https://www.youtube.com/watch?v=4DNpQ8_ov1U
 migration_source: personal-original
 translationKey: "where-peace-begins-e-ora-pace"

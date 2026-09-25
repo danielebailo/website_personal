@@ -1,6 +1,7 @@
 ---
 title: Orto Botanico
 date: '2014-03-01'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

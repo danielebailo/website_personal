@@ -1,6 +1,7 @@
 ---
 title: Come pubblicare un libro a costo (quasi) zero
 date: '2013-09-02'
+comments: true
 draft: false
 categories:
 - glistancocchi

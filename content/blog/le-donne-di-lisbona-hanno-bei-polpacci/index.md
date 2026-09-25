@@ -1,6 +1,7 @@
 ---
 title: Le donne di Lisbona hanno bei polpacci...
 date: '2015-06-10'
+comments: true
 draft: false
 categories:
 - job

@@ -1,6 +1,7 @@
 ---
 title: La Sfida delle 100 Cose
 date: '2012-05-16'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

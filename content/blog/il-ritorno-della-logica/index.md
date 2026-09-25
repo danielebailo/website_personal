@@ -1,6 +1,7 @@
 ---
 title: Il ritorno della logica
 date: '2021-12-06'
+comments: true
 draft: false
 categories:
 - musica

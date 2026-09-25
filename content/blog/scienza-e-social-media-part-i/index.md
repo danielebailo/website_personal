@@ -1,6 +1,7 @@
 ---
 title: Scienza e social media - Part I
 date: '2015-12-13'
+comments: true
 draft: false
 categories:
 - job

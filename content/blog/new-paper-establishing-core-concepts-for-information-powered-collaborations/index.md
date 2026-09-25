@@ -1,6 +1,7 @@
 ---
 title: 'New Paper: Establishing Core Concepts for Information-Powered Collaborations'
 date: '2018-07-16'
+comments: true
 draft: false
 categories:
 - job

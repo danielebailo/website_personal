@@ -2,6 +2,7 @@
 title: Quando una cosa funziona, bisogna dirlo (specialmente se è una roba nerd, poi
   dell'INPS!!)
 date: '2013-06-19'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

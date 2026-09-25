@@ -1,6 +1,7 @@
 ---
 title: 'Burocrazia vs. Informatica :  1000 a zero'
 date: '2014-11-12'
+comments: true
 draft: false
 categories:
 - riflessioni

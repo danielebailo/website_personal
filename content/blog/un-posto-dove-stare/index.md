@@ -1,6 +1,7 @@
 ---
 title: Un posto dove stare
 date: '2022-10-20'
+comments: true
 draft: false
 categories:
 - music

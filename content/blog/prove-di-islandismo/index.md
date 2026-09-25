@@ -1,6 +1,7 @@
 ---
 title: Prove di Islandismo
 date: '2020-03-14'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

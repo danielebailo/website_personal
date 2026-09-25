@@ -1,6 +1,7 @@
 ---
 title: 5+1 antidoti per non deprimersi leggendo Yuval N. Harari
 date: '2019-11-26'
+comments: true
 draft: false
 categories:
 - recensioni

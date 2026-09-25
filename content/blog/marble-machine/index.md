@@ -1,6 +1,7 @@
 ---
 title: Marble Machine
 date: '2016-04-18'
+comments: true
 draft: false
 categories:
 - musica-video

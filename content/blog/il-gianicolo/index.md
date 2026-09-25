@@ -1,6 +1,7 @@
 ---
 title: il Gianicolo
 date: '2012-06-14'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

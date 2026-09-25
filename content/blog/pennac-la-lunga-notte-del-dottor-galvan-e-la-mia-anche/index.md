@@ -1,6 +1,7 @@
 ---
 title: 'Pennac: la lunga notte del dottor Galvan.E la mia, anche.'
 date: '2014-04-22'
+comments: true
 draft: false
 categories:
 - recensioni

@@ -1,6 +1,7 @@
 ---
 title: Benvenuta Weissenborn
 date: '2022-01-18'
+comments: true
 draft: false
 categories:
 - music

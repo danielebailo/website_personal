@@ -1,6 +1,7 @@
 ---
 title: La video Anteprima di Ciao Ciao TV
 date: '2021-06-27'
+comments: true
 draft: false
 categories:
 - music

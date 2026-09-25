@@ -1,6 +1,7 @@
 ---
 title: ChatGPT, il Natale e la Weissenborn lap steel
 date: '2023-05-08'
+comments: true
 draft: false
 categories:
 - music

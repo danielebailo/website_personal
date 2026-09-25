@@ -1,6 +1,7 @@
 ---
 title: 'Da orchestrina jazz a band che spacca: il nuovo singolo degli ExFalsoQuodLibet!'
 date: '2013-04-05'
+comments: true
 draft: false
 categories:
 - musica-video

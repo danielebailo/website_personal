@@ -21,6 +21,7 @@ timeZone = "Europe/Rome"
   author = "Daniele Bailo"
   workURL = "https://work.danielebailo.it/"
   spotifyURL = ""
+  commentsHashOverURL = "https://www.danielebailo.it/comments-hashover/comments.php"
 
 [menu]
   [[menu.main]]

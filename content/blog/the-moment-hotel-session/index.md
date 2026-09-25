@@ -1,6 +1,7 @@
 ---
 title: "The Moment — Hotel Session #3"
 date: 2026-03-22
+comments: true
 original_url: https://www.youtube.com/watch?v=rqAZwZP5N3Q
 migration_source: personal-original
 translationKey: "the-moment-hotel-session"

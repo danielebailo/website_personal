@@ -1,6 +1,7 @@
 ---
 title: 'Come avere milioni di follower su Instagram: 10 principi infallibili'
 date: '2018-08-17'
+comments: true
 draft: false
 categories:
 - riflessioni

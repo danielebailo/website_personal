@@ -1,6 +1,7 @@
 ---
 title: 'Una musica da dentro: Pagoda Forest'
 date: '2013-04-24'
+comments: true
 draft: false
 categories:
 - musica-video

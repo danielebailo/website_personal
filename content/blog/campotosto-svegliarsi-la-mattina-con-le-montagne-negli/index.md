@@ -1,6 +1,7 @@
 ---
 title: 'Campotosto: svegliarsi la mattina con le montagne negli occhi'
 date: '2012-05-20'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

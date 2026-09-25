@@ -1,6 +1,7 @@
 ---
 title: 'La bibliotecaria anarco-post-punk / spennellare personaggi #3'
 date: '2014-05-06'
+comments: true
 draft: false
 categories:
 - riflessioni

@@ -1,6 +1,7 @@
 ---
 title: Islanda = viale Marconi x 2
 date: '2013-06-29'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

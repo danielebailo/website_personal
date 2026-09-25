@@ -1,6 +1,7 @@
 ---
 title: THEY CAN’T TAKE THAT AWAY FROM ME
 date: '2012-09-05'
+comments: true
 draft: false
 categories:
 - musica-video

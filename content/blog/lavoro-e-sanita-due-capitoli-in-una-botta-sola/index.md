@@ -1,6 +1,7 @@
 ---
 title: 'Lavoro e sanità: due capitoli in una botta sola.'
 date: '2013-08-02'
+comments: true
 draft: false
 categories:
 - glistancocchi

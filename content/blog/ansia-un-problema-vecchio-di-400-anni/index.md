@@ -1,6 +1,7 @@
 ---
 title: 'Ansia: un problema vecchio di 400 anni...'
 date: '2013-12-16'
+comments: true
 draft: false
 categories:
 - riflessioni

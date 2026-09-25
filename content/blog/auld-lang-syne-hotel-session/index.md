@@ -1,6 +1,7 @@
 ---
 title: "Auld Lang Syne — Hotel Session #1"
 date: 2026-03-15
+comments: true
 original_url: https://www.youtube.com/watch?v=ZKJ_iUG_aHw
 migration_source: personal-original
 translationKey: "auld-lang-syne-hotel-session"

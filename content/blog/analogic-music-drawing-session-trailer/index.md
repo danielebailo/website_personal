@@ -1,6 +1,7 @@
 ---
 title: Analogic - Music & Drawing session
 date: '2020-10-19'
+comments: true
 draft: false
 categories:
 - musica-video

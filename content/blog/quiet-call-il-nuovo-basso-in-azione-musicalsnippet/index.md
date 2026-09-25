@@ -1,6 +1,7 @@
 ---
 title: 'Quiet Call - lo Squire in azione #musicalsnippet'
 date: '2018-02-17'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

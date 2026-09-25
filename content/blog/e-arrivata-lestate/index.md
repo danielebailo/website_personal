@@ -1,6 +1,7 @@
 ---
 title: E’ arrivata l’estate!
 date: '2014-06-24'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

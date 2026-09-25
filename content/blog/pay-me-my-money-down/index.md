@@ -1,6 +1,7 @@
 ---
 title: Pay me my Money down
 date: '2015-03-30'
+comments: true
 draft: false
 categories:
 - musica-video

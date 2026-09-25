@@ -1,6 +1,7 @@
 ---
 title: 1000 Grazie!
 date: '2021-08-15'
+comments: true
 draft: false
 categories:
 - music

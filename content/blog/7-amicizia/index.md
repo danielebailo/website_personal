@@ -1,6 +1,7 @@
 ---
 title: 7. Amicizia
 date: '2013-07-29'
+comments: true
 draft: false
 categories:
 - glistancocchi

@@ -1,6 +1,7 @@
 ---
 title: Esce il video Lyrics!
 date: '2021-10-08'
+comments: true
 draft: false
 categories:
 - music

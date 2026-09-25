@@ -1,6 +1,7 @@
 ---
 title: Guida al Crowdfunding – il sito dei Giovani Artisti Italiani
 date: '2015-02-23'
+comments: true
 draft: false
 categories:
 - crowdfunding

@@ -1,6 +1,7 @@
 ---
 title: "Killing the Blues — Hotel Session #2"
 date: 2026-03-29
+comments: true
 original_url: https://www.youtube.com/watch?v=n2FMURoisns
 migration_source: personal-original
 translationKey: "killing-the-blues-hotel-session"

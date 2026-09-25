@@ -1,6 +1,7 @@
 ---
 title: Soundcheck
 date: '2023-12-20'
+comments: true
 draft: false
 categories:
 - music

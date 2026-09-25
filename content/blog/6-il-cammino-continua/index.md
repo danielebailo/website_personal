@@ -1,6 +1,7 @@
 ---
 title: 6. Il cammino continua
 date: '2013-07-27'
+comments: true
 draft: false
 categories:
 - glistancocchi

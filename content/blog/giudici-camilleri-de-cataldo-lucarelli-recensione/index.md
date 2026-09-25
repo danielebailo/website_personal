@@ -1,6 +1,7 @@
 ---
 title: 3 Giudici
 date: '2014-02-16'
+comments: true
 draft: false
 categories:
 - recensioni

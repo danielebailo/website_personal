@@ -1,6 +1,7 @@
 ---
 title: Agosto, fungo mio non ti conosco
 date: '2014-07-28'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

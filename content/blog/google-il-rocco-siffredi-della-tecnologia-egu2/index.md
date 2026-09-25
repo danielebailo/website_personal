@@ -1,6 +1,7 @@
 ---
 title: 'Google: il Rocco Siffredi della tecnologia (EGU#2)'
 date: '2013-04-13'
+comments: true
 draft: false
 categories:
 - job

@@ -1,6 +1,7 @@
 ---
 title: 'Un congresso di geoscienziati? (alias: EGU #1)'
 date: '2013-04-10'
+comments: true
 draft: false
 categories:
 - job

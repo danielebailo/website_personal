@@ -1,6 +1,7 @@
 ---
 title: MIles Davis faceva a cazzotti
 date: '2013-05-11'
+comments: true
 draft: false
 categories:
 - musica-video

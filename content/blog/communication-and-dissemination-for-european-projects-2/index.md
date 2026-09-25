@@ -1,6 +1,7 @@
 ---
 title: Communication and Dissemination for European Projects (#2)
 date: '2015-09-21'
+comments: true
 draft: false
 categories:
 - job

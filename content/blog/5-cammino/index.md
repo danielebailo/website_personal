@@ -1,6 +1,7 @@
 ---
 title: 5. Cammino
 date: '2013-07-26'
+comments: true
 draft: false
 categories:
 - glistancocchi

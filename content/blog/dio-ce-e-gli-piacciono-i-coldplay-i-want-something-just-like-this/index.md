@@ -1,6 +1,7 @@
 ---
 title: 'Dio c''è e gli piacciono i Coldplay: I want something just like this.'
 date: '2017-07-02'
+comments: true
 draft: false
 categories:
 - musica-video

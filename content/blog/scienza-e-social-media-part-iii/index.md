@@ -1,6 +1,7 @@
 ---
 title: Scienza e social media - Part III
 date: '2015-12-17'
+comments: true
 draft: false
 categories:
 - job

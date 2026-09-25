@@ -1,6 +1,7 @@
 ---
 title: Il più grande uomo scimmia del pleistocene
 date: '2018-11-21'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

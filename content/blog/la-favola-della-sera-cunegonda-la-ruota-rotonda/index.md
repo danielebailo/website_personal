@@ -1,6 +1,7 @@
 ---
 title: 'La favola della sera: Cunegonda la ruota rotonda'
 date: '2014-01-03'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

@@ -1,6 +1,7 @@
 ---
 title: Si può fare…
 date: '2012-05-18'
+comments: true
 draft: false
 categories:
 - musica-video

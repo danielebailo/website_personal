@@ -1,6 +1,7 @@
 ---
 title: E' uscito il CD (Virtuale)
 date: '2021-05-24'
+comments: true
 draft: false
 categories:
 - music

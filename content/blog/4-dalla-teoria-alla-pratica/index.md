@@ -1,6 +1,7 @@
 ---
 title: 4. Dalla teoria alla pratica
 date: '2013-07-25'
+comments: true
 draft: false
 categories:
 - glistancocchi

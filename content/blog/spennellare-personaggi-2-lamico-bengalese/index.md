@@ -1,6 +1,7 @@
 ---
 title: 'Spennellare personaggi #2: l''amico bengalese'
 date: '2013-10-25'
+comments: true
 draft: false
 categories:
 - ordinariabellezza

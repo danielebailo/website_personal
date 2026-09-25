@@ -1,6 +1,7 @@
 ---
 title: Invidia il prossimo tuo - John Niven
 date: '2018-08-20'
+comments: true
 draft: false
 categories:
 - recensioni

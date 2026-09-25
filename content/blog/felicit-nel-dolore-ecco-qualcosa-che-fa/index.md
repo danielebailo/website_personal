@@ -1,6 +1,7 @@
 ---
 title: Chiara Corbella Petrillo
 date: '2012-06-14'
+comments: true
 draft: false
 categories:
 - musica-video
