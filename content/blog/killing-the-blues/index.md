@@ -8,7 +8,10 @@ translationKey: "killing-the-blues"
 categories:
   - musica
 tags:
-  - musica\n  - weissenborn\n  - slide-guitar\n  - cover
+  - musica
+  - weissenborn
+  - slide-guitar
+  - cover
 cover: "/blog/killing-the-blues/images/header.jpg"
 cover_alt: "Killing the Blues, cover per Weissenborn"
 ---

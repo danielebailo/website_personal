@@ -8,7 +8,10 @@ translationKey: "the-moment"
 categories:
   - musica
 tags:
-  - musica\n  - weissenborn\n  - slide-guitar\n  - cover
+  - musica
+  - weissenborn
+  - slide-guitar
+  - cover
 cover: "/blog/the-moment/images/header.jpg"
 cover_alt: "The Moment, cover per Weissenborn"
 ---

@@ -16,7 +16,7 @@ tags:
 - ricerca-vocazionale
 original_url: https://www.danielebailo.it/2014/03/28/nessun-genitore-deve-volere-il-meglio-per-suo-figlio/
 migration_source: wordpress-personale
-cover: /uploads/2014/03/Deutsches_schwarzköpfiges_Fleischschaf-1-scaled.jpg
+cover: /uploads/2014/03/Deutsches-schwarzkoepfiges-Fleischschaf.jpg
 ---
 
 > ”...e sai perchè? Perché non lo sa. Un genitore non sa cos'è il meglio per suo figlio. Non lo può sapere, come potrebbe? E' Dio? Legge nella sfera di cristallo? No, è solo un genitore. E allora dovrebbe starsene a guardare e basta, in silenzio e con grande calma”.

@@ -8,7 +8,10 @@ translationKey: "sundown-slide"
 categories:
   - musica
 tags:
-  - musica\n  - weissenborn\n  - slide-guitar\n  - cover
+  - musica
+  - weissenborn
+  - slide-guitar
+  - cover
 cover: "/blog/sundown-slide/images/header.jpg"
 cover_alt: "Sundown Slide, cover per Weissenborn"
 ---

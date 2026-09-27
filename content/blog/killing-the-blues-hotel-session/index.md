@@ -8,7 +8,10 @@ translationKey: "killing-the-blues-hotel-session"
 categories:
   - musica
 tags:
-  - musica\n  - weissenborn\n  - hotel-sessions\n  - lap-steel
+  - musica
+  - weissenborn
+  - hotel-sessions
+  - lap-steel
 cover: "/blog/killing-the-blues-hotel-session/images/header.jpg"
 cover_alt: "Killing the Blues, Hotel Session per Weissenborn"
 ---

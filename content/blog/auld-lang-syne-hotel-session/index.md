@@ -8,7 +8,10 @@ translationKey: "auld-lang-syne-hotel-session"
 categories:
   - musica
 tags:
-  - musica\n  - weissenborn\n  - hotel-sessions\n  - lap-steel
+  - musica
+  - weissenborn
+  - hotel-sessions
+  - lap-steel
 cover: "/blog/auld-lang-syne-hotel-session/images/header.jpg"
 cover_alt: "Auld Lang Syne, Hotel Session per Weissenborn"
 ---
