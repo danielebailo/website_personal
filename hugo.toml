@@ -25,6 +25,10 @@ timeZone = "Europe/Rome"
 
 [menu]
   [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 5
+  [[menu.main]]
     name = "Blog"
     url = "/blog/"
     weight = 10
