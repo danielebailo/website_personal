@@ -19,10 +19,9 @@
       <input id="blog-search-input" type="search" placeholder="Cerca parole, titoli, tag..." autocomplete="off">
       <p id="blog-search-count" class="blog-search-count"></p>
     </section>
-    {{ $paginator := .Paginate $pages 18 }}
     <div class="blog-layout">
       <section class="post-list blog-results" id="blog-results">
-        {{ range $paginator.Pages }}
+        {{ range $pages }}
           {{ $page := . }}
           {{ $year := .Date.Format "2006" }}
           {{ $searchText := printf "%s %s %s %s" .Title (.Summary | plainify) (.Plain | plainify) (delimit .Params.tags " ") | lower }}
@@ -44,21 +43,6 @@
               {{ end }}
             </div>
           </article>
-        {{ end }}
-        {{ if gt $paginator.TotalPages 1 }}
-          <nav class="pagination" aria-label="Paginazione blog">
-            {{ if $paginator.HasPrev }}
-              <a class="pagination-link" href="{{ $paginator.Prev.URL }}">← Più recenti</a>
-            {{ else }}
-              <span class="pagination-link is-disabled">← Più recenti</span>
-            {{ end }}
-            <span class="pagination-current">Pagina {{ $paginator.PageNumber }} di {{ $paginator.TotalPages }}</span>
-            {{ if $paginator.HasNext }}
-              <a class="pagination-link" href="{{ $paginator.Next.URL }}">Più vecchi →</a>
-            {{ else }}
-              <span class="pagination-link is-disabled">Più vecchi →</span>
-            {{ end }}
-          </nav>
         {{ end }}
       </section>
       <aside class="blog-sidebar" aria-label="Archivio blog">
